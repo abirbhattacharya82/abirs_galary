@@ -1,0 +1,48 @@
+.initial_backrgound{
+    background-image: url("Images/Background/background-images.jpeg");
+    position: absolute;
+    top:0%;
+    left:0%;
+}
+h1{
+    font-family:"Papyrus",fantasy;
+    text-align: center;
+    font-size: 100px;
+    color: burlywood;
+}
+h3{
+    font-family:"papyrus",fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: cornsilk;
+}
+.left_margins_of_table{
+    padding-left: 50px;
+    padding-right: 10px;
+    font-family:"papyrus",fantasy;
+    font-size: 18px;
+    text-align: right;
+    color: rgb(231, 227, 160);
+}
+.right_margins_of_table{
+    padding-left: 10px;
+    padding-right: 50px;
+    font-family:"papyrus",fantasy;
+    font-size: 18px;
+    text-align: left;
+    color: rgb(231, 227, 160);
+}
+.links{
+    text-align: center;
+}
+.buttons{
+    background: blue;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px 10px;
+    font-family:cursive;
+    border-radius: 20px;
+}
+.Hero_image{
+    padding: 40px 40px;
+}
